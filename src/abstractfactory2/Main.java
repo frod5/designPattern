@@ -4,9 +4,6 @@ import abstractfactory2.abst.Button;
 import abstractfactory2.abst.GuiFactory;
 import abstractfactory2.abst.TextArea;
 import abstractfactory2.concrete.FactoryInstance;
-import abstractfactory2.linux.LinuxGuiFactory;
-import abstractfactory2.mac.MacGuiFactory;
-import abstractfactory2.win.WinGuiFactory;
 
 public class Main {
 	public static void main(String[] args) {
